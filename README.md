@@ -13,7 +13,7 @@ app1.py it contains the code
 ![Prediction](screenshots/prediction.png)
 
 ### 📈 Visualizations
-![Visualizations](screenshots/visualization.png)
+![Visualizations](screenshots/visualizations.png)
 
 ### 🔮 Forecasting
 ![Forecasting](screenshots/forecasting.png)
