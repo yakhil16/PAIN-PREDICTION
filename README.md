@@ -16,7 +16,11 @@ app1.py it contains the code
 ![Visualizations](screenshots/visualizations.png)
 ![Viz1](screenshots/visualization1.png)
 ![Viz2](screenshots/visualization2.png)
-
+![Viz3](screenshots/visualization-3.png)
+![Viz3](screenshots/visualization-4.png)
+![Viz3](screenshots/visualization-5.png)
+![Viz3](screenshots/visualization-6.png)
+![Viz3](screenshots/visualization-7.png)
 
 ### 🔮 Forecasting
 ![Forecasting](screenshots/forecasting.png)
